@@ -11,7 +11,7 @@ let snappy = false
  */
 class Batcher {
   loadSnappy () {
-    return require('snappy')
+    return null
   }
 
   loadUrl () {
